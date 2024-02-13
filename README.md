@@ -1,7 +1,7 @@
 - 👋 Salut, je m'appelle Kokou Major Achille Hoka
-- 👀 Je suis intéressé par le développement d'application web et mobile
-- 🌱 J'apprends actuellement le html, css, scss, javaScript, React, nodejs
-- 💞️ Je cherche à collaborer sur tous les projets
+- 👀 Je suis intéressé par le développement d'application web et mobile, etant autodidact j'aimerais travailler en equipe pour aquerir plus d'experiences
+- 🌱 Je maitrise le html, css, scss, tailwindcss, javaScript, React, git, github et jai debuter le nodejs tout récemment
+- 💞️ Je cherche de l'experience !!!
 - 📫 email : kokouhoka@gmail.com
 
 <!---
